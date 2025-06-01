@@ -73,7 +73,7 @@ redirect_from:
 
 [**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
 
-2023年7月15-21日，中国，宜昌，中国语文教学名师，徐杰老师授课。
+2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
 
 
 [链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
