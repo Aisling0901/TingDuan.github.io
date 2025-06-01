@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: ""
@@ -92,16 +93,71 @@ redirect_from:
 </div>
 </div>
 
+<!-- Page 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
+
+2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
+
+[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
+</div>
+</div>
+
+<!-- Page 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
+
+2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
+
+[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
+</div>
+</div>
+
+<!-- Page 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
+
+2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
+
+[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
+</div>
+</div>
+
+<!-- Page 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
+
+2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
+
+[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
+</div>
+</div>
 
 # 👫 教学经历
--2019.9-2021.6，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，初级汉语。
+-2019.9-2021.6，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，初级汉语
+-2017.02-2017.04，中国，新东方呼和浩特学校，助教
+-2017.11-2018.12，内蒙古日报社，科教文部实习记者，积极整理采访材料，与老师合作完成新闻稿撰写，14篇文章发表于《内蒙古日报》
 
 
 
 
 # 📄荣誉&证书
-- 2019.10， 汉语国际教师资格证
+- 2019.10， 国际汉语教师资格证
 - 2022.10，高级语文教师资格证
+- 2016.10，全国普通话等级证书（二甲）
+- 2016.10，涉外文秘三级2015，获“外研社杯”全国英语写作大赛初赛二等奖
+- 2015，共青团内蒙古自治区委员会等征文中获优秀奖
+- 2018，内蒙古自治区“三好学生”奖
+- 2015，校级“三好学生”、2017校级“优秀团员”
+- 2014-2016，三次获得优秀学生奖学金一等奖
 
 
 # 📄教学成果&论文
