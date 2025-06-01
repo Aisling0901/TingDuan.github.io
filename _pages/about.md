@@ -93,5 +93,7 @@ redirect_from:
 - 2022.10，高级语文教师资格证
 
 
+# 📄教学成果&论文
+- 2017.6，《许三观卖血记有感》
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA&cl=ffffff&w=a"></script>
