@@ -80,6 +80,19 @@ redirect_from:
 </div>
 
 
+<!-- Page 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
+
+2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
+
+[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
+</div>
+</div>
+
+
 # 👫 教学经历
 -2019.9-2021.6，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，初级汉语。
 
