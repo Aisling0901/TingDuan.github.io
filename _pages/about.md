@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 📚<span style="color: #FFB6C1">**遨游字宙，解码人文：您的语文领航**</span>
+# 📚<span style="color: #FFB6C1">**遨游字宙，解码人文：您的语文领航**</span>  
 
-您好！我是<span style="color: #FFB6C1">**段婷**</span>，[人大附中航天城学校](https://rdfzhtcxx.bjhdedu.cn/) 中学语文讲台上的一名 “**星际文字解码员**” 兼 “**人文光谱分析师**”。
+您好！我是<span style="color: #FFB6C1">**段婷**</span>，[<span style="color: #FFB6C1">**人大附中航天城学校**</span>](https://rdfzhtcxx.bjhdedu.cn/) 中学语文讲台上的一名 <span style="color: #FFB6C1">**星际文字解码员**</span> “**星际文字解码员**” 兼 “**人文光谱分析师**”。
 
 在“航天城”这片充满探索基因的土地上，我的课堂也如同一次奇妙的航行。我们搭乘的不是火箭，而是**语言的方舟**；我们探索的不是外太空，而是**人类精神的内宇宙**。在这里，每一个汉字都是闪烁的星辰，每一篇经典都是待解的文明密码，每一次思想的碰撞都可能擦亮认知的新星。
 
