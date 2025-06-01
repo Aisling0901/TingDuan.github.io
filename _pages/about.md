@@ -73,91 +73,14 @@ redirect_from:
 
 [**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
 
-2023年7月15-21日，中国，宜昌。
-中国语文教学名师，徐杰老师授课。
+2023年7月15-21日，中国，宜昌，中国语文教学名师，徐杰老师授课。
 
 
-[连接](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
+[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
 </div>
 </div>
 
 
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/my_papers/MambaMoE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification**](https://arxiv.org/abs/2504.20509)
-
-**Yichu Xu**, Di Wang, Hongzan Jiao, Lefei Zhang, Liangpei Zhang.
-
-[PDF](https://arxiv.org/abs/2504.20509) | [Code](https://github.com/YichuXu/DSFormer) 
-</div>
-</div>
-
-
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/my_papers/DSFormer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Dual selective fusion transformer network for hyperspectral image classification**](https://arxiv.org/abs/2410.03171)
-
-**Yichu Xu**, Di Wang, Lefei Zhang, Liangpei Zhang.
-
-[PDF](https://arxiv.org/abs/2410.03171) | [Code](https://github.com/YichuXu/DSFormer) 
-</div>
-</div>
-
-
-<!-- Paper 4 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 25</div><img src='images/my_papers/HSANet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**](https://arxiv.org/abs/2504.15170)
-
-Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, **Yichu Xu<sup>#</sup>** .
-
-[PDF](https://arxiv.org/abs/2504.15170) | [Code](https://github.com/ChengxiHAN/HSANet) 
-</div>
-</div>
-
-
-<!-- ------------------------------------ -->
-<!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 24</div><img src='images/my_papers/S3ANet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**S3ANet: Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification**](https://ieeexplore.ieee.org/document/10478963)
-
-**Yichu Xu**, Yonghao Xu, Hongzan Jiao, Zhi Gao, Lefei Zhang.
-
-[PDF](https://ieeexplore.ieee.org/document/10478963) | [Code](https://github.com/YichuXu/S3ANet) 
-</div>
-</div>
-
-<!-- ------------------------------------ -->
-<!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 22</div><img src='images/my_papers/HAD_Overview.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098)
-
-**Yichu Xu**, Lefei Zhang, Bo Du, Liangpei Zhang.
-
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098)
-</div>
-</div>
-
-<!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 20</div><img src='images/my_papers/GRSL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**A Low-Rank and Sparse Matrix DecompositionBased Dictionary Reconstruction and Anomaly Extraction Framework for Hyperspectral Anomaly Detection**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927)
-
-**Yichu Xu**, Bo Du, Liangpei Zhang, Shizhen Chang.
-
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927)
-</div>
-</div>
 
 # 👫 Collaboration
 [Shizhen Chang (常世桢)](https://shizhenchang.github.io/), [Yonghao Xu (徐永浩)](https://yonghaoxu.github.io/), [Di Wang (王迪)](https://dotwang.github.io/), [Chengxi Han (韩承熙)](https://chengxihan.github.io/)  
