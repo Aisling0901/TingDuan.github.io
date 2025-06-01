@@ -16,13 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-欢迎来到我的主页，我在[人大附中航天城学校](https://rdfzhtcxx.bjhdedu.cn/)初中部教语文，欢迎全国的中学语文老师语文交流～
-我重点研究的教学方向为：
 
-- <span style="color: #008B8B">**中学作文**</span>:破-立-写三步法
-- <span style="color: #FFB6C1">**中学语文诗词**</span>
+Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan University (WHU) @Sigma advised by Prof. Lefei Zhang, Prof. Bo Du and Prof. Liangpei Zhang. My research interests include:
 
-📧 我非常乐于合作，并欢迎任何对我的研究感兴趣的人咨询。欢迎随时联系我。
+Remote Sensing Image Interpretation: Hyperspectral Image Classification, Hyperspectral Target/ Anomaly Detection, Change Detection
+Remote Sensing Foundation Model
+
+📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to concat.
 
 
 # 📱 Contact
