@@ -26,8 +26,8 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 
 # 📱 Contact
-- **WeChat**: Yichu_Xu
-- **Email**: xuyichu@whu.edu.cn
+- **WeChat**: buhuanbushi
+- **Email**: dt1530477@163.com
 
 
 
