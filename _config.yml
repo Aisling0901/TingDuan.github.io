@@ -58,7 +58,7 @@ author:
   twitter          :
   vine             :
   weibo            :
-  wechat channel   : "https://mp.weixin.qq.com/s/2JgvJ1sNLIFmVyW2Y_Jn8w"
+  wechat           : "https://mp.weixin.qq.com/s/2JgvJ1sNLIFmVyW2Y_Jn8w"
   youtube          :
   wikipedia        :
   # wechat           : "https://github.com/LYL1015/LYL1015.github.io/blob/master/images/weixin.jpg"  # 将weixin改为wechat，因为模板可能只识别wechat字段
