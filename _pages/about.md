@@ -71,9 +71,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**第五届教师核心能力深度训练营**](https://arxiv.org/abs/2406.11519)
+[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
 
 2023年7月15-21日，中国，宜昌。
+中国语文教学名师，徐杰老师授课。
 
 
 [连接](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
