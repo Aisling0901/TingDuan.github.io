@@ -31,9 +31,9 @@ author:
   location         : "北京, 中国"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CxKy4lEAAAAJ&hl=en&oi=ao"
-  email            : "xuyichu@whu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yichu-Xu?ev=prf_overview"
+  googlescholar    : 
+  email            : "dt1530477@163.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -41,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DuanTing"
+  github           : "DuanTingRUC"
   google_plus      :
   keybase          :
   instagram        :
@@ -58,7 +58,7 @@ author:
   twitter          :
   vine             :
   weibo            :
-  xing             :
+  xing             :“https://mp.weixin.qq.com/s/2JgvJ1sNLIFmVyW2Y_Jn8w”
   youtube          :
   wikipedia        :
   # wechat           : "https://github.com/LYL1015/LYL1015.github.io/blob/master/images/weixin.jpg"  # 将weixin改为wechat，因为模板可能只识别wechat字段
