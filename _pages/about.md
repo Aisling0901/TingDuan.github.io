@@ -59,9 +59,9 @@ redirect_from:
 
 # 🔥 News
 - 2025.04: HyperSIGMA首个十亿级高光谱智能理解大模型 [基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm) • [武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) • [遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)
-- 2025.03: A co-author paper is accepted by IEEE IGARSS! 
+
 - 2025.01: Our paper [**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) has been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***！.
-- 2024.03: A paper is accepted by IEEE TGRS!
+
 
 
 # 📝 教研活动
@@ -83,13 +83,7 @@ redirect_from:
 
 
 # 👫 Collaboration
-[Shizhen Chang (常世桢)](https://shizhenchang.github.io/), [Yonghao Xu (徐永浩)](https://yonghaoxu.github.io/), [Di Wang (王迪)](https://dotwang.github.io/), [Chengxi Han (韩承熙)](https://chengxihan.github.io/)  
-[Meiqi Hu (胡美琪)](https://meiqihu.github.io/), [Yao Jin (金垚)](https://scholar.google.com/citations?hl=en&user=PBqyF80AAAAJ), [Yuchun Miao (苗雨春)](https://scholar.google.com/citations?hl=en&user=-ec3mwUAAAAJ), [Jiaqi Yang (杨佳琪)](https://jqyang22.github.io/)  
-[Xiaolei Qin (秦晓蕾)](https://scholar.google.com/citations?user=gFKE4TMAAAAJ&hl=en), [Jiaqi Ma (马嘉祺)](https://leonmakise.github.io/), [Lingyu Sun (孙凌瑜)](https://github.com/KiwiLYu), [Chenxing Li (李辰星)](https://ieeexplore.ieee.org/author/37089818143)  
-[Chuan Fu (付川)](https://www.researchgate.net/profile/Fu-Chuan), [Hongruixuan Chen (陈洪瑞轩)](https://chrx97.com/)
-
-
-
+ [Chengxi Han (韩承熙)](https://chengxihan.github.io/)  
 
 
 
