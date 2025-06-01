@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yichu Xu"
+title                    : "段婷"
 description              : ""
 repository               : ""
 google_scholar_stats_use_cdn : true
@@ -25,10 +25,10 @@ favicon                  : "images/1-32x32.png"
 
 # Site Author
 author:
-  name             : "Yichu Xu （徐一楚）"
+  name             : "段婷"
   avatar           : "images/1.jpg"
-  bio              : "Wuhan University"
-  location         : "Wuhan, China"
+  bio              : "人大附中航天城学校"
+  location         : "北京, 中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CxKy4lEAAAAJ&hl=en&oi=ao"
