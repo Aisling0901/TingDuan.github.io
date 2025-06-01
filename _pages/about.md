@@ -82,14 +82,15 @@ redirect_from:
 
 
 
-# 👫 Collaboration
- [Chengxi Han (韩承熙)](https://chengxihan.github.io/)  
+# 👫 教学经历
+-2019.9-2021.6，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，初级汉语。
 
 
 
-# 💬 Academic Service
-- Conference Reviewer: ACMMM 2025, ICME 2025.
-- Journal Reviewer: TIP, TCSVT, TNNLS, TMM, TGRS, JSTARS, GRSL, ISPRS P\&RS, IF, NN.
+
+# 📄荣誉&证书
+- 2019.10， 汉语国际教师资格证
+- 2022.10，高级语文教师资格证
 
 
 
