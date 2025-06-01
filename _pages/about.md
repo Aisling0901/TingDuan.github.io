@@ -48,12 +48,8 @@ redirect_from:
 
 期待在语文的“发射场”与您相遇，共同开启一场关于语言、思想与美的星际探索！
 
-- <span style="color: #009B8F">**中学作文**</span>:破-立-写三步法
-- <span style="color: #008B8B">**中学作文**</span>:破-立-写三步法
-- <span style="color: #FFB6C1">**中学语文诗词**</span>
 
-📧 我非常乐于合作，并欢迎任何对我的研究感兴趣的人咨询。欢迎随时联系我。
-
+📧 我非常乐于合作，并欢迎任何对我的研究感兴趣的人咨询，欢迎随时联系我～
 
 # 📱 Contact
 - **WeChat**: buhuanbushi
@@ -68,21 +64,19 @@ redirect_from:
 - 2024.03: A paper is accepted by IEEE TGRS!
 
 
-# 📝 研学
+# 📝 教研活动
 <!-- ------------------------------------ -->
 
-### **(* equal contribution, <sup>#</sup> corresponding author)**
-
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/my_papers/HyperSIGMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519)
+[**第五届教师核心能力深度训练营**](https://arxiv.org/abs/2406.11519)
 
-Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, Xiaolei Qin\*, Jiaqi Ma\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang. 
+2023年7月15-21日，中国，宜昌。
 
 
-[PDF](https://arxiv.org/abs/2406.11519) | [Project](https://whu-sigma.github.io/HyperSIGMA/) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)
+[连接](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
 </div>
 </div>
 
