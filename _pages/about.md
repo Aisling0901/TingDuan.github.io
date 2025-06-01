@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-欢迎来到我的主页，我在 [人大附中航天城学校](https://rdfzhtcxx.bjhdedu.cn/) 初中部教语文，欢迎全国的中学语文老师一起交流～
-
-我重点研究的教学方向为：
+欢迎来到我的主页，我在 [人大附中航天城学校](https://rdfzhtcxx.bjhdedu.cn/) 初中部教语文，欢迎全国的中学语文老师一起交流～我重点研究的教学方向为：
 
 - <span style="color: #008B8B">**中学作文**</span>:破-立-写三步法
 - <span style="color: #FFB6C1">**中学语文诗词**</span>
