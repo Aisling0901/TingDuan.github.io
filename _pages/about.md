@@ -52,8 +52,9 @@ redirect_from:
 📧 我非常乐于合作，并欢迎任何对我的研究感兴趣的人咨询，欢迎随时联系我～
 
 # 📱 Contact
-- **WeChat**: buhuanbushi
-- **Email**: dt1530477@163.com
+- **微信号**: buhuanbushi
+- **微信公众号**: 为学与为道
+- **邮箱**: dt1530477@163.com
 
 
 
@@ -80,13 +81,13 @@ redirect_from:
 </div>
 
 
-<!-- Page 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
+<!-- Page 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">北京大学交换 2016</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
+[**北京大学交换**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
 
-2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
+2016年9月-12月，中国，北京，**北京大学**交换。
 
 [链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
 </div>
