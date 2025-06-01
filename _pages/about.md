@@ -81,13 +81,13 @@ redirect_from:
 
 
 
-<!-- Page 1 -->
+<!-- Page 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">北京大学交换 2016</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**北京大学学院交换**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
 
-2016年9月12月，中国，北京，北京大学，**文史哲**进修。
+2016年9月12月，中国，北京，北京大学，**文**进修。
 
 [链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
 </div>
