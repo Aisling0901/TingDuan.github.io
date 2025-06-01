@@ -48,6 +48,7 @@ redirect_from:
 
 期待在语文的“发射场”与您相遇，共同开启一场关于语言、思想与美的星际探索！
 
+- <span style="color: #009B8F">**中学作文**</span>:破-立-写三步法
 - <span style="color: #008B8B">**中学作文**</span>:破-立-写三步法
 - <span style="color: #FFB6C1">**中学语文诗词**</span>
 
