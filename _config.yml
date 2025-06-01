@@ -20,13 +20,13 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # 网站图标设置
-favicon                  : "images/1-32x32.png"  
+favicon                  : "images/DuanTing-32*32.jpg"  
 # logo                     : "images/logo.png"     # 添加网站logo路径
 
 # Site Author
 author:
   name             : "段婷"
-  avatar           : "images/DuanTing.jpg"
+  avatar           : "images/DuanTing-fang.jpg"
   bio              : "人大附中航天城学校"
   location         : "北京, 中国"
   employer         :
