@@ -164,5 +164,6 @@ redirect_from:
 
 # 📄教学成果&论文
 - 2017.02，《以个人视角管窥历史真实——以<许三观卖血记>为例分析小说中个体叙事与历史主题》（2017年2月下刊），省级期刊《青年文学家》
+- @
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA&cl=ffffff&w=a"></script>
