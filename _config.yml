@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "段婷ffdd"
+title                    : "段婷"
 description              : ""
 repository               : ""
 google_scholar_stats_use_cdn : true
@@ -25,7 +25,7 @@ favicon                  : "images/DuanTing-32x32.png"
 
 # Site Author
 author:
-  name             : "段婷" “<span style="color: #FFB6C1">**fff**</span>”
+  name             : "段婷"
   avatar           : "images/DuanTing-fang.jpg"
   bio              : "人大附中航天城学校"
   location         : "北京, 中国"
