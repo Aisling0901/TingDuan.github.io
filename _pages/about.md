@@ -121,32 +121,6 @@ redirect_from:
 </div>
 
 
-
-<!-- Page 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
-
-2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
-
-[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
-</div>
-</div>
-
-<!-- Page 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
-
-2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
-
-[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
-</div>
-</div>
-
-
 # 📄荣誉&证书
 - 2019.10， 国际汉语教师资格证
 - 2022.10，高级语文教师资格证
