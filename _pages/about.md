@@ -56,13 +56,8 @@ redirect_from:
 - **微信公众号**: 为学与为道
 - **邮箱**: dt1530477@163.com
 
-
-
 # 🔥 教育经历
-- 2018.09-2022.06，[中国人民大学](https://www.ruc.edu.cn)，[文学院](http://wenxueyuan.ruc.edu.cn/)，文学硕士学位；
-- 2025.04: HyperSIGMA首个十亿级高光谱智能理解大模型 [基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm) • [武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) • [遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)
-
-- 2025.01: Our paper [**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) has been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***！.
+- 2018.09-2022.06，[中国人民大学](https://www.ruc.edu.cn)，[文学院](http://wenxueyuan.ruc.edu.cn/)，教育学硕士学位；
 
 # 👫 教学经历
 - 2019.9-2021.6，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，初级汉语
@@ -163,6 +158,7 @@ redirect_from:
 - 2018，内蒙古自治区“三好学生”奖
 - 2015，校级“三好学生”、2017校级“优秀团员”
 - 2014-2016，三次获得优秀学生奖学金一等奖
+- 2024，海淀区中小学跨学科主题学习典型案例一等奖
 
 
 
