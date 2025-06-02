@@ -81,6 +81,18 @@ redirect_from:
 </div>
 </div>
 
+<!-- Page 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">作文教学专题培训会 2024</div><img src='images/zuowenijaoxue_2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**作文教学专题培训会**](https://duantingruc.github.io/)
+
+2024年7月X-X日，中国，青岛，中国语文教学名师，**徐杰**老师等五位老师授课。
+
+[链接🔗](https://duantingruc.github.io/) 
+</div>
+</div>
+
 
 <!-- Page 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">北京大学交换 2016</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
@@ -106,17 +118,7 @@ redirect_from:
 </div>
 </div>
 
-<!-- Page 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
-
-2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
-
-[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
-</div>
-</div>
 
 <!-- Page 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
