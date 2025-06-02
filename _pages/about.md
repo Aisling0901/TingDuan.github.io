@@ -93,15 +93,15 @@ redirect_from:
 </div>
 </div>
 
-<!-- Page 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">名师优课 2023</div><img src='images/jiaoshiyanxiu_2023.jpg' alt="sym" width="100%"></div></div>
+<!-- Page 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">指导学生话剧 2024</div><img src='images/hongyan.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**第五届教师核心能力深度训练营**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
+[**语文历史跨学科学习活动**](https://duantingruc.github.io/)
 
-2023年7月15-21日，中国，宜昌，中国语文教学名师，**徐杰**老师授课。
+2024年5月30日，中国，北京，人大附中航天城学校，组织学生参与语文历史跨学科学习活动，让学生在阅读中消除与经典的隔膜，全面把握人物形象，深刻理解小说蕴含的主题，**获2024 年海淀区中小学跨学科主题学习典型案例一等奖**。
 
-[链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
+[链接🔗](https://duantingruc.github.io/) 
 </div>
 </div>
 
