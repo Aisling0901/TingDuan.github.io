@@ -64,7 +64,14 @@ redirect_from:
 
 - 2025.01: Our paper [**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) has been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***！.
 
-
+# 👫 教学经历
+- 2019.9-2021.6，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，初级汉语
+- 2017.02-2017.04，中国，新东方呼和浩特学校，助教
+- 2017.11-2018.12，内蒙古日报社，科教文部实习记者，积极整理采访材料，与老师合作完成新闻稿撰写，14篇文章发表于《内蒙古日报》
+- 
+# 📄教学成果&论文
+- 2017.02，《以个人视角管窥历史真实——以<许三观卖血记>为例分析小说中个体叙事与历史主题》（2017年2月下刊），省级期刊《青年文学家》
+- @
 
 # 📝 教研活动
 <!-- ------------------------------------ -->
@@ -144,13 +151,6 @@ redirect_from:
 </div>
 </div>
 
-# 👫 教学经历
-- 2019.9-2021.6，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，初级汉语
-- 2017.02-2017.04，中国，新东方呼和浩特学校，助教
-- 2017.11-2018.12，内蒙古日报社，科教文部实习记者，积极整理采访材料，与老师合作完成新闻稿撰写，14篇文章发表于《内蒙古日报》
-
-
-
 
 # 📄荣誉&证书
 - 2019.10， 国际汉语教师资格证
@@ -165,8 +165,6 @@ redirect_from:
 - 2014-2016，三次获得优秀学生奖学金一等奖
 
 
-# 📄教学成果&论文
-- 2017.02，《以个人视角管窥历史真实——以<许三观卖血记>为例分析小说中个体叙事与历史主题》（2017年2月下刊），省级期刊《青年文学家》
-- @
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA&cl=ffffff&w=a"></script>
