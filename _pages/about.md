@@ -101,12 +101,12 @@ redirect_from:
 
 
 <!-- Page 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">北京大学交换 2016</div><img src='images/pekinguniversity.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">北京大学交流学习 2016</div><img src='images/pekinguniversity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**北京大学交换**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
+[**北京大学交流学习**](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw)
 
-2016年9月-12月，中国，北京，**北京大学**交换。
+2016年9月-12月，中国，北京，**北京大学**交流学习，文学，历史，哲学。
 
 [链接🔗](https://mp.weixin.qq.com/s/Ww49tQ0VfZayretFox9Lzw) 
 </div>
@@ -137,6 +137,7 @@ redirect_from:
 - 2015，校级“三好学生”、2017校级“优秀团员”
 - 2014-2016，三次获得优秀学生奖学金一等奖
 - 2024，海淀区中小学跨学科主题学习典型案例一等奖
+
 
 
 
