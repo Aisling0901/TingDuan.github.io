@@ -20,7 +20,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # 网站图标设置
-favicon                  : "images/DuanTing-32x32.png"  
+favicon                  : "images/android-chrome-512x512.png"  
 # logo                     : "images/logo.png"     # 添加网站logo路径
 
 # Site Author
@@ -31,7 +31,7 @@ author:
   location         : "北京, 中国"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "Dr. Chengxi Han"
   email            : "dt1530477@163.com"
   researchgate     : 
   uri              :
