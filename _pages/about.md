@@ -63,10 +63,13 @@ redirect_from:
 - 2019.9-2021.6，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，初级汉语
 - 2017.02-2017.04，中国，新东方呼和浩特学校，助教
 - 2017.11-2018.12，内蒙古日报社，科教文部实习记者，积极整理采访材料，与老师合作完成新闻稿撰写，14篇文章发表于《内蒙古日报》
-- 
+ 
 # 📄教学成果&论文
 - 2017.02，《以个人视角管窥历史真实——以<许三观卖血记>为例分析小说中个体叙事与历史主题》（2017年2月下刊），省级期刊《青年文学家》
 - @
+
+# 📄教学资源分享
+- “段老师与你共读” **《水浒传》**：[第1-2回](https://mp.weixin.qq.com/s/1YE5ZLROUcqS-DUvMQKadg) • [第3-4回](https://mp.weixin.qq.com/s/R9EHmy01qFQ9iTERezGVEg) • [第5-6回](https://mp.weixin.qq.com/s/wjWg51fGiFoJbvYvxhq0dA) • [第7-8回](https://mp.weixin.qq.com/s/G3OVbckcya187qlfE2vfjw) • [第9-10回](https://mp.weixin.qq.com/s/AQDzZHsEfMM3wg1R09fhmA) • [第11-12回](https://mp.weixin.qq.com/s/-Kjg9yRIYemww-anyA9dmw)
 
 # 📝 教研活动
 <!-- ------------------------------------ -->
