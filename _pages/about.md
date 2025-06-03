@@ -61,8 +61,8 @@ redirect_from:
 
 # 👫 教学经历
 - 2019.09-2021.06，爱尔兰， [都柏林大学孔子学院](https://www.cii.ie/cn/)  ，HSK，初级\中级\高级汉语
+- 2017.11-2018.12，内蒙古日报社，科教文部实习记者，积极整理采访材料，与老师合作完成新闻稿撰写，[14篇新闻稿](http://fullsearch.cnepaper.com/FullSearch.aspx?__VIEWSTATE=%2FwEPDwUKLTcxNzIwOTA3OA9kFgICAQ9kFgICBA8PFgIeC1JlY29yZGNvdW50ZmRkZLbjlQcCgijevuSVWxCmRrrEG2XNJlbkbBSiBfLA6Drd&__VIEWSTATEGENERATOR=4F4D99FC&__EVENTVALIDATION=%2FwEdAAlXkRLiRzgN8iT3LWInvR2Emmi6crQtUppGzVPl7fPD6rC%2BZPIcfkw7iiVNLbykZKmVfvrR%2FhFz3HQgo%2FXm%2BSvsY8ubUezwSzy9392P5ysimVYtAtEosf%2FZXcByrv2jcJrLsJG05XJmC7sxwVBiD4or%2BcJxTPkGg61RlIH5oBGAfgSvOkkVMQVIZLE5xTYB%2FhmEIJSdBebOfxdNLNaVKWyWtuHyLk2qwLOSyOJIWD4ivg%3D%3D&search_scope=all&search_text=%E6%AE%B5%E5%A9%B7&Txt_SiteStart=2017-10-01&Txt_SiteEnd=2018-12-02&lblPaperID=1093)发表于[内蒙古日报](https://szb.northnews.cn/nmgrb/html/2025-06/02/node_1.htm?v=1)
 - 2017.02-2017.04，中国，新东方呼和浩特学校，助教
-- 2017.11-2018.12，内蒙古日报社，科教文部实习记者，积极整理采访材料，与老师合作完成新闻稿撰写，[14篇新闻稿](http://fullsearch.cnepaper.com/FullSearch.aspx?__VIEWSTATE=%2FwEPDwUKLTcxNzIwOTA3OA9kFgICAQ9kFgICBA8PFgIeC1JlY29yZGNvdW50ZmRkZLbjlQcCgijevuSVWxCmRrrEG2XNJlbkbBSiBfLA6Drd&__VIEWSTATEGENERATOR=4F4D99FC&__EVENTVALIDATION=%2FwEdAAlXkRLiRzgN8iT3LWInvR2Emmi6crQtUppGzVPl7fPD6rC%2BZPIcfkw7iiVNLbykZKmVfvrR%2FhFz3HQgo%2FXm%2BSvsY8ubUezwSzy9392P5ysimVYtAtEosf%2FZXcByrv2jcJrLsJG05XJmC7sxwVBiD4or%2BcJxTPkGg61RlIH5oBGAfgSvOkkVMQVIZLE5xTYB%2FhmEIJSdBebOfxdNLNaVKWyWtuHyLk2qwLOSyOJIWD4ivg%3D%3D&search_scope=all&search_text=%E6%AE%B5%E5%A9%B7&Txt_SiteStart=2017-10-01&Txt_SiteEnd=2018-12-02&lblPaperID=1093)发表于[内蒙古日报](https://szb.northnews.cn/nmgrb/html/2025-06/02/node_1.htm?v=1) 
  
 # 📄教学成果&论文
 
