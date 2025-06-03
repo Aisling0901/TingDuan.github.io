@@ -66,7 +66,7 @@ redirect_from:
  
 # 📄教学成果&论文
 - 2017.02，《以个人视角管窥历史真实——以<许三观卖血记>为例分析小说中个体叙事与历史主题》（2017年2月下刊），[青年文学家](http://www.qnwxj.com/)，省级期刊
-- @ 
+- 2017.02，《以个人视角管窥历史真实——以<许三观卖血记>为例分析小说中个体叙事与历史主题》（2017年2月下刊），[青年文学家](http://www.qnwxj.com/)，省级期刊
 
 # 📄教学资源分享
 - “段老师与你共读” **《水浒传》**：[第1-2回](https://mp.weixin.qq.com/s/1YE5ZLROUcqS-DUvMQKadg) • [第3-4回](https://mp.weixin.qq.com/s/R9EHmy01qFQ9iTERezGVEg) • [第5-6回](https://mp.weixin.qq.com/s/wjWg51fGiFoJbvYvxhq0dA) • [第7-8回](https://mp.weixin.qq.com/s/G3OVbckcya187qlfE2vfjw) • [第9-10回](https://mp.weixin.qq.com/s/AQDzZHsEfMM3wg1R09fhmA) • [第11-12回](https://mp.weixin.qq.com/s/-Kjg9yRIYemww-anyA9dmw)
